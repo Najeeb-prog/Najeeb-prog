@@ -1,63 +1,80 @@
-# Hi there 👋, I'm Najeeb  
-
-🚀 **Data Enthusiast | AI Explorer | Software Developer**  
-
-I’m passionate about transforming data into actionable insights, building intelligent systems, and creating impactful software solutions. My expertise spans **Python, Data Analytics, Machine Learning, and Visualization**.
+<h1 align="center">Hi there 👋, I'm Najeeb</h1>
+<h3 align="center">🚀 Data Enthusiast | AI Explorer | Software Developer</h3>
 
 ---
 
-## 🛠️ Skills & Tools  
+### 👨‍💻 About Me
+I’m passionate about transforming raw data into **actionable insights**, building **intelligent systems**, and crafting **efficient software solutions**.  
+My journey blends **Python, Data Analytics, Visualization, and Machine Learning** into solving real-world problems.
 
-### 💻 Programming & Development  
+---
+
+### 🛠️ Skills & Tools  
+
+#### 💻 Programming & Development  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 Data Analytics & Visualization  
+#### 📊 Data Analytics & Visualization  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🤖 Machine Learning & AI  
+#### 🤖 Machine Learning & AI  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=ai&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-00599C?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E5EAA?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats  
+### 📈 GitHub Stats  
 
-![Najeeb's GitHub stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🌍 Connect With Me  
-
-- 🌐 [Portfolio Website](https://your-website.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 [Email Me](mailto:yourmail@example.com)  
+<p align="center">
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="170px"/>
+</p>
 
 ---
 
-## 🔧 Tools & Technologies I Use  
+### 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🔧 Tools & Technologies I Use  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 </p>
 
 ---
 
-✨ *“Data is the new oil, but only refined data fuels innovation.”*
+<h4 align="center">✨ “Data is the new oil, but only refined data fuels innovation.” ✨</h4>
